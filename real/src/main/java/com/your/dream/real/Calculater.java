@@ -9,7 +9,7 @@ public class App
 	
 	private App() 
 	{
-		// do not create App class directly test
+		// do not create App class directly test2
 	}
 	
     	}
